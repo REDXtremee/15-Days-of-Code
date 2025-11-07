@@ -45,6 +45,6 @@ Watched Lecture 6, went through how to build small custom CNNs and peeked at act
 Didn’t go too deep, just wanted to grasp how FastAI ties with PyTorch.
 
 ## Day 7
-Finished Lecture 7 🎉
+Finished Lecture 7
 Revisited all the key ideas from this week — data, training, interpretation, and customization.
 Did a quick recap instead of jumping into a project.
